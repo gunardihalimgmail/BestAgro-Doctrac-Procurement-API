@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\procurementApi</_PublishTargetUrl>
+    <History>True|2023-10-03T09:03:37.6643926Z;True|2023-10-02T17:04:47.8666314+07:00;False|2023-10-02T17:03:57.9625966+07:00;False|2023-10-02T17:02:52.4485085+07:00;True|2023-09-05T10:03:32.4237555+07:00;True|2023-07-12T14:12:40.5523864+07:00;False|2023-07-12T14:10:15.3116768+07:00;True|2023-06-14T14:10:41.4052331+07:00;True|2023-05-27T15:33:47.5055575+07:00;False|2023-05-27T15:29:49.1661178+07:00;True|2023-05-27T15:27:22.5885365+07:00;False|2023-05-27T15:26:16.3558348+07:00;True|2023-05-26T15:34:16.1793804+07:00;True|2023-05-10T15:13:24.8939213+07:00;False|2023-05-10T15:04:49.4246530+07:00;False|2023-05-10T15:02:39.0564347+07:00;False|2023-05-10T15:01:49.9668404+07:00;</History>
+  </PropertyGroup>
+</Project>

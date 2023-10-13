@@ -1,0 +1,2 @@
+D:\MyProject\API-Procurement\Doctrac-Procurement-API-master\doctrac-procurement-api\Procurement\Procurement.Infrastructure\obj\Debug\netcoreapp3.1\Fakes\bacc\o\netcoreapp3.1\f.csproj.AssemblyReference.cache
+D:\MyProject\API-Procurement\Doctrac-Procurement-API-master\doctrac-procurement-api\Procurement\Procurement.Infrastructure\obj\Debug\netcoreapp3.1\Fakes\bacc\o\netcoreapp3.1\f.csproj.CoreCompileInputs.cache

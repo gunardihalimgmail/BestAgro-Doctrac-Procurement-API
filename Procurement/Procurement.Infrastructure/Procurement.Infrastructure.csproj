@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="FakesAssemblies\**" />
+    <EmbeddedResource Remove="FakesAssemblies\**" />
+    <None Remove="FakesAssemblies\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.9" />
+    <PackageReference Include="Microsoft.QualityTools.Testing.Fakes" Version="16.11.230815" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Procurement.Domain\Procurement.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <AdditionalDesignTimeBuildInput Remove="FakesAssemblies\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BestAgroCore.Common">
+      <HintPath>..\..\..\..\..\..\Komponen\BestAgroCore-DLL-master\bestagrocore-dll\BestAgroCore.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="BestAgroCore.Infrastructure.Data.EFRepositories">
+      <HintPath>..\..\..\..\..\..\Komponen\BestAgroCore-DLL-master\bestagrocore-dll\BestAgroCore.Infrastructure.Data.EFRepositories.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

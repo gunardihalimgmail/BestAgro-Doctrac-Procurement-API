@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Doctrac-Procurement" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\MyProject\\API-Procurement\\Doctrac-Procurement-API-master\\doctrac-procurement-api\\Procurement\\Procurement\.WebAPI\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
